@@ -12,6 +12,11 @@
 #include <iomanip>
 #include<stdlib.h>
 using namespace std;
-
+class A{
+    int a;
+public:
+    A(int a);
+    void print();
+};
 
 #endif //CPPKESHE_CLASS_H

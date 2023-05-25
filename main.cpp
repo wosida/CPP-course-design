@@ -5,6 +5,8 @@ int main() {
     a="你好";
     cout<< a << endl;
     cout << "你好" << std::endl;
+    A a1(1);
+    a1.print();
     system("pause");
     return 0;
 }
