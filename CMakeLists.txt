@@ -3,4 +3,4 @@ project(cppkeshe)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cppkeshe main.cpp class.h class.cpp)
+add_executable(cppkeshe main.cpp class.h class.cpp function.cpp)
